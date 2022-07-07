@@ -6,3 +6,5 @@ file
 with
 some
 text
+
+this is a modified file
